@@ -1,0 +1,3 @@
+module BANKASSESMENT
+
+go 1.19
