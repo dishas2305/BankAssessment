@@ -18,7 +18,6 @@ func main() {
 		X := utils.CreateAccount()
 		utils.Store(X)
 		fmt.Println("-------Account Created Successfully-------\n", X)
-
 	}
 	fmt.Println("View Account List: Y/N")
 	fmt.Scan(&view)
